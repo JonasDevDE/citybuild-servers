@@ -29,5 +29,10 @@ Threre are:
 - MelonCity
 - FirstMC
 - Townity
+- Pixeltopia (Wish quality)
+- VibeCraft
+- EmpireRP
+- Angelzcraft
+- Craftplay
 
 Choose one. :D
